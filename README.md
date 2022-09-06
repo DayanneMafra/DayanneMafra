@@ -4,6 +4,6 @@
   
   -🔭 Sou estudante de ADS
   
-  -🌱 Atualmente cursando HTML, CSS e JavaScript
+  -🌱 Conhecimento HTML, CSS e JavaScript
   
   -📫 Email: dayannemafra@gmail.com
