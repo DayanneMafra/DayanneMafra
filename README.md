@@ -1,4 +1,6 @@
-  ## Olá Tudo bem?! Me chamo Dayanne Mafra
+ <div align="center">
+ <h2>Olá Tudo bem?! Me chamo Dayanne Mafra<h2>
+ </div>
   <div align="center">
   <a href="https://github.com/DayanneMafra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayanneMafra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
