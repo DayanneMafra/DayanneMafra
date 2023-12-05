@@ -10,20 +10,13 @@
   <a href = "mailto:dayannemafra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dayannemafra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-   <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+   <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
 
 </div> 
-
-##  Status do meu GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
-  
+ <div align="center">  
 <div style="display: inline_block"><br>
   <img align="center" alt="Day-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Day-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Day-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-</div>
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DayanneMafra" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DayanneMafra&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" alt="Day-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
 
