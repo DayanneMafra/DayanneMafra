@@ -1,26 +1,40 @@
- <div align="center">
- <h1>👋 Olá! Eu sou Dayanne.</h1>
- Sou pernambucana apaixonada por tecnologia em constante busca por conhecimento. Atualmente, estou imersa no estudo de Análise e Desenvolvimento de Sistemas, explorando as maravilhas do mundo da programação. 💻✨
+<div align="center">
+  <h1>👋 Olá! Eu sou Dayanne</h1>
 
-🌱 Estou sempre aprendendo e aprimorando minhas habilidades para contribuir para a comunidade de desenvolvedores. Meu entusiasmo pela tecnologia me impulsiona a enfrentar desafios e a buscar soluções inovadoras.
+  <p>Sou pernambucana e apaixonada por tecnologia. Me formei em <b>Análise e Desenvolvimento de Sistemas</b> e agora estou estudando na <b>Escola da Nuvem</b>, me preparando para conquistar a certificação <b>AWS Cloud Practitioner</b>. 💻✨</p>
 
-🚀 Vamos construir o futuro da tecnologia juntos! ✨
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DayanneMafra&label=Vizualizações%20de%20Perfil&color=0e75b6&style=flat" alt="DayanneMafra" /> </p>
-<br>
+  <!-- Contador de visitas -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=DayanneMafra&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="Visualizações de Perfil" />
+  </p>
 
-##
-   <a href="https://www.instagram.com/dayannemafraof/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dayannemafra@gmail.com)
-  <a href="https://www.linkedin.com/in/dayannemafra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!-- Tecnologias (acima da imagem) -->
+  <p>
+    <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </p>
 
-   <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
+  <!-- Badge AWS Practitioner -->
+  <p>
+    <img alt="AWS Practitioner" src="https://img.shields.io/badge/AWS%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </p>
 
+  <!-- GIF central -->
+  <p>
+    <img alt="Coding GIF" src="./code.gif" width="500" height="320">
+  </p>
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Day-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Day-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Day-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <!-- Redes (abaixo da imagem) -->
+  <p>
+    <a href="https://www.instagram.com/dayannemafraof/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="mailto:dayannemafra@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/dayannemafra" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
 </div>
-
